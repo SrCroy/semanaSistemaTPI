@@ -1,13 +1,8 @@
 <?php
 use lib\Routes;
+use app\controllers\HomeController;
 
-Routes::get("/", function (){
-    return "Hola desde la ruta raiz";
-});
-
-Routes::get("/formulario", function (){
-    return "formulario";
-});
+Routes::get("/", [HomeController::class, "index"]);
 
 Routes::dispatch();
 
