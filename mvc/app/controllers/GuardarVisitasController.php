@@ -42,5 +42,11 @@ class GuardarVisitasController extends CargarVista{
             exit;
         }
     }
+
+    public function tablas(){
+        $personas = new GuardarVistasModels();
+        $persona = $personas->getVisitas_Blog();
+        return $this->views("TablaVisitasView", ["persona" => $persona]);
+    }
 }
 ?>

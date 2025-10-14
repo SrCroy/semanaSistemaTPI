@@ -1,13 +1,14 @@
 <?php
 namespace app\models;
 use lib\Database;
+use PDO;
 
 class GuardarVistasModels extends Database{
     
     public function getVisitas_Blog(){
         $conexion = $this->getConnection();
         $sql = $conexion->query("SELECT * FROM Visitas_Blog");
-        return $sql->fetchAll();
+        return $sql->fetchAll(PDO::FETCH_ASSOC);
     }
 
     public function guardarVisitas($data){

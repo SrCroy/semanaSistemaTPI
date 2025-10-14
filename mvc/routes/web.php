@@ -25,6 +25,7 @@ Routes::get("/eliminarCita/:id", [ClinicaController::class, "eliminarCita"]);
 
 Routes::get("/visitas", [GuardarVisitasController::class, "index"]);
 Routes::post("/enviar", [GuardarVisitasController::class, "enviar"]);
+Routes::get("/tablas", [GuardarVisitasController::class, "tablas"]);
 
 Routes::dispatch();
 ?>

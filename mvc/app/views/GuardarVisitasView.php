@@ -12,11 +12,18 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-8">
-                    <h1 class="display-4 fw-bold">Registro de Visitas</h1>
+                    <h1 class="display-4 fw-bold">Visitas Registradas</h1>
                     <p class="lead">Universidad de El Salvador Facultad Multidisciplinaria Oriental San Miguel</p>
                 </div>
                 <div class="col-lg-4 text-lg-end">
-                    <a href="/mvc/public" class="btn btn-outline-light btn-sm">Volver al Inicio</a>
+                    <div class="d-flex justify-content-lg-end gap-3">
+                        <a href="tablas" class="btn btn-outline-light btn-sm">
+                            <i class="bi bi-plus-circle"></i> Ver tabla
+                        </a>
+                        <a href="/mvc/public" class="btn btn-outline-light btn-sm">
+                            Volver al Inicio
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>
