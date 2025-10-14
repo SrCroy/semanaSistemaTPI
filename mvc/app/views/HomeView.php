@@ -7,7 +7,6 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body class="bg-light">
-    <!-- Header Principal -->
     <header class="bg-primary text-white py-5">
         <div class="container">
             <div class="row align-items-center">
@@ -19,7 +18,6 @@
         </div>
     </header>
 
-    <!-- Sección de Bienvenida -->
     <section class="py-5">
         <div class="container">
             <div class="row">
@@ -30,17 +28,10 @@
                             
                             <div class="mb-4">
                                 <h4 class="text-primary">¿En qué consiste?</h4>
-                                <p class="card-text">Este proyecto tiene como objetivo proporcionar una visión completa del estado de los
-                                    sistemas informáticos universitarios a lo largo de la semana. Permite a estudiantes y personal técnico
-                                    realizar un seguimiento detallado de las actividades de mantenimiento, actualizaciones y métricas de
-                                    rendimiento.</p>
-                            </div>
-                            
-                            <div class="mb-4">
-                                <h4 class="text-primary">El Evento</h4>
-                                <p class="card-text">Como parte de la materia de TPI (Tecnologías de Programacion para internet),
-                                    los estudiantes de 4° año de Ingeniería en Sistemas Informáticos desarrollan esta plataforma para aplicar conocimientos
-                                    teóricos en un proyecto práctico que beneficie a toda la comunidad universitaria.</p>
+                                <p class="card-text">En este proyecto mostraremos un resumen detallado de todas las actividades realizadas
+                                    en la semana de sistemas para obtener informacion de los temas, actividades de los estudiantes
+                                    de la universidad del el salvador
+                                </p>
                             </div>
                             
                             <div class="text-center mt-4">
@@ -53,12 +44,10 @@
         </div>
     </section>
 
-    <!-- Tarjetas de los días -->
-    <section id="dias" class="py-5">
+    <section id="dias" class="py-1">
         <div class="container">
             <h2 class="text-center mb-5">Resumen por Día de la Semana</h2>
             <div class="row g-4">
-                <!-- Lunes -->
                 <div class="col-md-6 col-lg-4">
                     <div class="card shadow-sm border-0 h-100">
                         <div id="carouselLunes" class="carousel slide" data-bs-ride="carousel">
@@ -94,8 +83,6 @@
                         </div>
                     </div>
                 </div>
-
-                <!-- Martes -->
                 <div class="col-md-6 col-lg-4">
                     <div class="card shadow-sm border-0 h-100">
                         <div id="carouselMartes" class="carousel slide" data-bs-ride="carousel">
@@ -132,7 +119,6 @@
                     </div>
                 </div>
 
-                <!-- Miércoles -->
                 <div class="col-md-6 col-lg-4">
                     <div class="card shadow-sm border-0 h-100">
                         <div id="carouselMiercoles" class="carousel slide" data-bs-ride="carousel">
@@ -168,8 +154,6 @@
                         </div>
                     </div>
                 </div>
-
-                <!-- Jueves -->
                 <div class="col-md-6 col-lg-4">
                     <div class="card shadow-sm border-0 h-100">
                         <div id="carouselJueves" class="carousel slide" data-bs-ride="carousel">
@@ -206,7 +190,6 @@
                     </div>
                 </div>
 
-                <!-- Viernes -->
                 <div class="col-md-6 col-lg-4">
                     <div class="card shadow-sm border-0 h-100">
                         <div id="carouselViernes" class="carousel slide" data-bs-ride="carousel">
@@ -247,7 +230,6 @@
         </div>
     </section>
 
-    <!-- Footer -->
     <footer class="mt-5 pt-4 border-top text-center text-muted bg-white">
         <div class="container">
             <p>Resumen Semanal de Sistemas - Facultad Multidisciplinaria Oriental</p>
@@ -257,7 +239,6 @@
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
     <script>
-        // Mostrar fecha actual
         const fecha = new Date();
         document.getElementById('fecha-actual').textContent = fecha.toLocaleDateString('es-ES', { 
             weekday: 'long', 

@@ -1,4 +1,5 @@
 <?php
+use app\controllers\ClinicaController;
 use app\controllers\Dia1Controller;
 use app\controllers\Dia2Controller;
 use app\controllers\Dia3Controller;
@@ -15,6 +16,11 @@ Routes::get("/dia3", [Dia3Controller::class, "index"]);
 Routes::get("/dia4", [Dia4Controller::class, "index"]);
 Routes::get("/dia5", [Dia5Controller::class, "index"]);
 Routes::get("/perfil", [PerfilController::class, "index"]);
-Routes::dispatch();
+Routes::get("/clinica", [ClinicaController::class, "index"]);
 
+Routes::post("/guardarCita", [ClinicaController::class, "guardarCita"]);
+Routes::get("/actualizarEstado/:id/:estado", [ClinicaController::class, "actualizarEstado"]);
+Routes::get("/eliminarCita/:id", [ClinicaController::class, "eliminarCita"]);
+
+Routes::dispatch();
 ?>
