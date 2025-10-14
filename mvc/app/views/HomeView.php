@@ -35,7 +35,7 @@
                             </div>
                             
                             <div class="text-center mt-4">
-                                <a href="perfil" class="btn btn-primary btn-lg">Ver Perfil</a>
+                                <a href="visitas" class="btn btn-primary btn-lg">Guardar visitas</a>
                             </div>
                         </div>
                     </div>

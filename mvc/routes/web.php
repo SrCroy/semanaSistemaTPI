@@ -5,6 +5,7 @@ use app\controllers\Dia2Controller;
 use app\controllers\Dia3Controller;
 use app\controllers\Dia4Controller;
 use app\controllers\Dia5Controller;
+use app\controllers\GuardarVisitasController;
 use app\controllers\PerfilController;
 use lib\Routes;
 use app\controllers\HomeController;
@@ -21,6 +22,9 @@ Routes::get("/clinica", [ClinicaController::class, "index"]);
 Routes::post("/guardarCita", [ClinicaController::class, "guardarCita"]);
 Routes::get("/actualizarEstado/:id/:estado", [ClinicaController::class, "actualizarEstado"]);
 Routes::get("/eliminarCita/:id", [ClinicaController::class, "eliminarCita"]);
+
+Routes::get("/visitas", [GuardarVisitasController::class, "index"]);
+Routes::post("/enviar", [GuardarVisitasController::class, "enviar"]);
 
 Routes::dispatch();
 ?>
