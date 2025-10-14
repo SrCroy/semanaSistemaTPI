@@ -31,7 +31,7 @@
                         <div class="card-header bg-primary text-white py-4">
                             <div class="d-flex align-items-center">
                                 <div class="flex-shrink-0">
-                                    <img src="../public/img/cristian.jpg" 
+                                    <img src="../public/img/cristian.webp" 
                                          alt="Foto de perfil" 
                                          class="rounded-circle border border-3 border-white"
                                          width="100" height="100">
@@ -56,7 +56,7 @@
                                         <div class="fw-bold text-secondary small">CORREO ELECTRÓNICO</div>
                                         <div class="d-flex align-items-center">
                                             <i class="bi bi-envelope text-primary me-2"></i>
-                                            juan.perez@ues.edu.sv
+                                            rg22016@ues.edu.sv
                                         </div>
                                     </div>
                                     
@@ -64,7 +64,7 @@
                                         <div class="fw-bold text-secondary small">NÚMERO DE CARNET</div>
                                         <div class="d-flex align-items-center">
                                             <i class="bi bi-person-badge text-primary me-2"></i>
-                                            SM2023456
+                                            RG22016
                                         </div>
                                     </div>
                                     
@@ -72,7 +72,7 @@
                                         <div class="fw-bold text-secondary small">TELÉFONO</div>
                                         <div class="d-flex align-items-center">
                                             <i class="bi bi-telephone text-primary me-2"></i>
-                                            +503 7890-1234
+                                            +503 60450515
                                         </div>
                                     </div>
                                 </div>
@@ -86,7 +86,7 @@
                                         <div class="fw-bold text-secondary small">AÑO DE ESTUDIO</div>
                                         <div class="d-flex align-items-center">
                                             <i class="bi bi-calendar-check text-primary me-2"></i>
-                                            Tercer Año
+                                            Cuarto Año
                                         </div>
                                     </div>
                                     
@@ -94,7 +94,7 @@
                                         <div class="fw-bold text-secondary small">MATERIA ACTUAL</div>
                                         <div class="d-flex align-items-center">
                                             <i class="bi bi-journal-text text-primary me-2"></i>
-                                            Sistemas Operativos
+                                            Tecnicas de programacion para internet
                                         </div>
                                     </div>
                                     
@@ -102,53 +102,7 @@
                                         <div class="fw-bold text-secondary small">DOCENTE</div>
                                         <div class="d-flex align-items-center">
                                             <i class="bi bi-person-check text-primary me-2"></i>
-                                            Ing. María Rodríguez
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            
-                            <div class="row mt-3">
-                                <div class="col-12">
-                                    <h4 class="text-primary border-bottom pb-2 mb-3">
-                                        <i class="bi bi-info-circle me-2"></i>Información Adicional
-                                    </h4>
-                                    
-                                    <div class="row">
-                                        <div class="col-md-4 mb-3">
-                                            <div class="card bg-light h-100 border-0">
-                                                <div class="card-body text-center py-3">
-                                                    <div class="text-primary mb-2">
-                                                        <i class="bi bi-check-circle display-6"></i>
-                                                    </div>
-                                                    <h5 class="h6">Asignaturas Aprobadas</h5>
-                                                    <p class="mb-0 fs-4 fw-bold text-primary">18</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        
-                                        <div class="col-md-4 mb-3">
-                                            <div class="card bg-light h-100 border-0">
-                                                <div class="card-body text-center py-3">
-                                                    <div class="text-success mb-2">
-                                                        <i class="bi bi-graph-up display-6"></i>
-                                                    </div>
-                                                    <h5 class="h6">Promedio Actual</h5>
-                                                    <p class="mb-0 fs-4 fw-bold text-success">8.5</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        
-                                        <div class="col-md-4 mb-3">
-                                            <div class="card bg-light h-100 border-0">
-                                                <div class="card-body text-center py-3">
-                                                    <div class="text-info mb-2">
-                                                        <i class="bi bi-clock-history display-6"></i>
-                                                    </div>
-                                                    <h5 class="h6">Años en la UES</h5>
-                                                    <p class="mb-0 fs-4 fw-bold text-info">3</p>
-                                                </div>
-                                            </div>
+                                            Ing. Javier Paiz
                                         </div>
                                     </div>
                                 </div>

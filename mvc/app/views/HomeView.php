@@ -57,10 +57,10 @@
                             </div>
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" class="d-block w-100" alt="Monitoreo de servidores" style="height: 200px; object-fit: cover;">
+                                    <img src="../public/img/bitcoin1.webp" class="d-block w-100" alt="Monitoreo de servidores" style="height: 200px; object-fit: cover;">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="https://images.unsplash.com/photo-1581094794329-c8112a89af12?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" class="d-block w-100" alt="Dashboard de monitoreo" style="height: 200px; object-fit: cover;">
+                                    <img src="../public/img/bitcoin2.webp" class="d-block w-100" alt="Dashboard de monitoreo" style="height: 200px; object-fit: cover;">
                                 </div>
                             </div>
                             <button class="carousel-control-prev" type="button" data-bs-target="#carouselLunes" data-bs-slide="prev">
