@@ -71,12 +71,13 @@
                             </button>
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">Lunes - Monitoreo</h5>
-                            <p class="card-text">Revisión del estado de servidores y servicios críticos después del fin de semana.</p>
-                            <div class="mb-3">
-                                <span class="badge bg-success">Estable</span>
-                                <span class="badge bg-info ms-1">92% Uptime</span>
-                            </div>
+                            <h5 class="card-title">Lunes</h5>
+                            <p class="card-text">
+                                Temas.<br>
+                                El ABC de Bitcoin<br>
+                                Inteligencia Artificial Generativa - de la idea a la accion <br>
+                                Curcurso de la Hackathon
+                            </p>
                         </div>
                         <div class="card-footer bg-transparent">
                             <a href="dia1" class="btn btn-primary w-100 text-white">Ver resumen</a>
@@ -92,10 +93,10 @@
                             </div>
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <img src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" class="d-block w-100" alt="Backup de datos" style="height: 200px; object-fit: cover;">
+                                    <img src="../public/img/images.webp" class="d-block w-100" alt="Backup de datos" style="height: 200px; object-fit: cover;">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="https://images.unsplash.com/photo-1621905252507-b35492cc74b4?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" class="d-block w-100" alt="Servidores de backup" style="height: 200px; object-fit: cover;">
+                                    <img src="../public/img/composer.webp" class="d-block w-100" alt="Servidores de backup" style="height: 200px; object-fit: cover;">
                                 </div>
                             </div>
                             <button class="carousel-control-prev" type="button" data-bs-target="#carouselMartes" data-bs-slide="prev">
@@ -106,12 +107,13 @@
                             </button>
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">Martes - Backup</h5>
-                            <p class="card-text">Ejecución de respaldos completos de bases de datos y sistemas.</p>
-                            <div class="mb-3">
-                                <span class="badge bg-success">Completado</span>
-                                <span class="badge bg-warning ms-1">3.2 TB</span>
-                            </div>
+                            <h5 class="card-title">Martes</h5>
+                            <p class="card-text">
+                                Temas. <br>
+                                Toma de decisiones estrategicas basadas en datos <br>
+                                Construyendo un CRUD en minutos con laravel y filament <br>
+                                IA MULTIMODAL
+                            </p>
                         </div>
                         <div class="card-footer bg-transparent">
                             <a href="dia2" class="btn btn-success w-100 text-white">Ver resumen</a>
