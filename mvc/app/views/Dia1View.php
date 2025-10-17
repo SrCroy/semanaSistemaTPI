@@ -168,7 +168,9 @@
                                     <div class="col-md-8">
                                         <h5 class="card-title text-warning">Solución Creativa de Problemas</h5>
                                         <p class="card-text">
-                                            Y para terminar hubo una hackathon en donde se les dio a los estudiantes un problema y que ellos encontraran la solución. Esta actividad práctica permitió a los participantes aplicar los conocimientos adquiridos durante el día, fomentando el trabajo en equipo y la resolución creativa de problemas utilizando tanto conceptos de criptomonedas como de inteligencia artificial.
+                                            Y para terminar hubo una hackathon en donde se les dio a los estudiantes un problema y que ellos encontraran la solución.
+                                             Esta actividad práctica permitió a los participantes aplicar los conocimientos adquiridos durante el día, 
+                                             fomentando el trabajo en equipo y la resolución creativa del problema.
                                         </p>
                                     </div>
                                     <div class="col-md-4">

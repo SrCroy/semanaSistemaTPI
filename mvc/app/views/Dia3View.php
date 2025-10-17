@@ -72,7 +72,7 @@
                                     <div class="col-md-8">
                                         <h5 class="card-title text-primary">Torneo Deportivo Interfacultades Cancelado</h5>
                                         <p class="card-text">
-                                            El torneo de fútbol interfacultades programado para esta semana queda oficialmente cancelado. Las canchas deportivas de la universidad se encuentran inundadas y no reúnen las condiciones mínimas para la práctica deportiva.
+                                            El torneo de fútbol programado para esta semana queda oficialmente cancelado. Las canchas deportivas de la universidad se encuentran inundadas y no reúnen las condiciones mínimas para la práctica deportiva.
                                         </p>
                                         <p class="card-text">
                                             La reprogramación del evento se anunciará mediante los canales oficiales de la universidad cuando las condiciones meteorológicas lo permitan.

@@ -14,6 +14,11 @@
                     <h1 class="display-4 fw-bold">Resumen Semanal de Sistemas</h1>
                     <p class="lead">Universidad de El Salvador Facultad Multidisciplinaria Oriental San Miguel</p>
                 </div>
+                <div class="col-lg-4 text-lg-end mt-3 mt-lg-0">
+                    <a href="clinica" class="btn btn-outline-light btn-lg">
+                        <i class="bi bi-hospital me-2"></i> Ir a la Clínica
+                    </a>
+                </div>
             </div>
         </div>
     </header>
@@ -175,12 +180,8 @@
                             </button>
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">Jueves - Reportes</h5>
-                            <p class="card-text">Generación de reportes de rendimiento y métricas del sistema.</p>
-                            <div class="mb-3">
-                                <span class="badge bg-success">Completado</span>
-                                <span class="badge bg-primary ms-1">15 reportes</span>
-                            </div>
+                            <h5 class="card-title">Jueves</h5>
+                            <p class="card-text">Feria de logros y popuseada</p>
                         </div>
                         <div class="card-footer bg-transparent">
                             <a href="dia4" class="btn btn-info w-100 text-white">Ver resumen</a>
@@ -197,10 +198,10 @@
                             </div>
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <img src="https://images.unsplash.com/photo-1581094794329-c8112a89af12?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" class="d-block w-100" alt="Mantenimiento de hardware" style="height: 200px; object-fit: cover;">
+                                    <img src="../public/img/dia5/fondo1.webp" class="d-block w-100" alt="Mantenimiento de hardware" style="height: 200px; object-fit: cover;">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="https://images.unsplash.com/photo-1581094794329-c8112a89af12?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" class="d-block w-100" alt="Limpieza de sistemas" style="height: 200px; object-fit: cover;">
+                                    <img src="../public/img/dia5/fondo2.webp" class="d-block w-100" alt="Limpieza de sistemas" style="height: 200px; object-fit: cover;">
                                 </div>
                             </div>
                             <button class="carousel-control-prev" type="button" data-bs-target="#carouselViernes" data-bs-slide="prev">
@@ -211,15 +212,50 @@
                             </button>
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">Viernes - Mantenimiento</h5>
-                            <p class="card-text">Mantenimiento preventivo de hardware y limpieza de sistemas.</p>
-                            <div class="mb-3">
-                                <span class="badge bg-danger">Pendiente</span>
-                                <span class="badge bg-secondary ms-1">Programado</span>
-                            </div>
+                            <h5 class="card-title">Viernes</h5>
+                            <p class="card-text">
+                                BINGO<br>
+                                Reconocimientos<br>
+                                Torneo de clash Royale<br>
+                                Fiesta HALLOFUTURE PARTY
+                            </p>
                         </div>
                         <div class="card-footer bg-transparent">
                             <a href="dia5" class="btn btn-danger w-100 text-white">Ver resumen</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-4">
+                    <div class="card shadow-sm border-0 h-100">
+                        <div id="carouselViernes" class="carousel slide" data-bs-ride="carousel">
+                            <div class="carousel-indicators">
+                                <button type="button" data-bs-target="#carouselViernes" data-bs-slide-to="0" class="active"></button>
+                                <button type="button" data-bs-target="#carouselViernes" data-bs-slide-to="1"></button>
+                            </div>
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                    <img src="../public/img/cristian.webp" class="d-block w-100" alt="Mantenimiento de hardware" style="height: 200px; object-fit: cover;">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="../public/img/cristian.webp" class="d-block w-100" alt="Limpieza de sistemas" style="height: 200px; object-fit: cover;">
+                                </div>
+                            </div>
+                            <button class="carousel-control-prev" type="button" data-bs-target="#carouselViernes" data-bs-slide="prev">
+                                <span class="carousel-control-prev-icon"></span>
+                            </button>
+                            <button class="carousel-control-next" type="button" data-bs-target="#carouselViernes" data-bs-slide="next">
+                                <span class="carousel-control-next-icon"></span>
+                            </button>
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title">Perfil</h5>
+                            <p class="card-text">
+                                Cristian Geovanny Rubio Garcia RG22016
+                            </p>
+                        </div>
+                        <div class="card-footer bg-transparent">
+                            <a href="perfil" class="btn btn-danger w-100 text-white">Ver resumen</a>
                         </div>
                     </div>
                 </div>
