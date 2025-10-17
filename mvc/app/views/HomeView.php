@@ -130,10 +130,10 @@
                             </div>
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" class="d-block w-100" alt="Actualizaciones de software" style="height: 200px; object-fit: cover;">
+                                    <img src="../public/img/cancelado.webp" class="d-block w-100" alt="Actualizaciones de software" style="height: 200px; object-fit: cover;">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" class="d-block w-100" alt="Parches de seguridad" style="height: 200px; object-fit: cover;">
+                                    <img src="../public/img/cancelado2.webp" class="d-block w-100" alt="Parches de seguridad" style="height: 200px; object-fit: cover;">
                                 </div>
                             </div>
                             <button class="carousel-control-prev" type="button" data-bs-target="#carouselMiercoles" data-bs-slide="prev">
@@ -144,12 +144,8 @@
                             </button>
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">Miércoles - Actualizaciones</h5>
-                            <p class="card-text">Aplicación de parches de seguridad y actualizaciones de software.</p>
-                            <div class="mb-3">
-                                <span class="badge bg-warning">En progreso</span>
-                                <span class="badge bg-info ms-1">75%</span>
-                            </div>
+                            <h5 class="card-title">Miércoles</h5>
+                            <p class="card-text">Suspendido por lluvias</p>
                         </div>
                         <div class="card-footer bg-transparent">
                             <a href="dia3" class="btn btn-warning w-100 text-white">Ver resumen</a>
