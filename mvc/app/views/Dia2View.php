@@ -50,7 +50,7 @@
                                         </p>
                                     </div>
                                     <div class="col-md-4">
-                                        <img src="../public/img/datos2.webp" 
+                                        <img src="../public/img/dia2/datos2.webp" 
                                              alt="Del dato a la información" 
                                              class="img-fluid rounded shadow-sm w-100">
                                     </div>
@@ -62,7 +62,7 @@
                             <div class="card-body p-4">
                                 <div class="row align-items-start">
                                     <div class="col-md-4">
-                                        <img src="../public/img/datosinformacion.webp" 
+                                        <img src="../public/img/dia2/datosinformacion.webp" 
                                              alt="Empresas y datos" 
                                              class="img-fluid rounded shadow-sm w-100">
                                     </div>
@@ -86,7 +86,7 @@
                                         </p>
                                     </div>
                                     <div class="col-md-4">
-                                        <img src="../public/img/laravel1.webp" 
+                                        <img src="../public/img/dia2/datosfondo.webp" 
                                              alt="Captura de datos" 
                                              class="img-fluid rounded shadow-sm w-100">
                                     </div>
@@ -105,7 +105,7 @@
                             <div class="card-body p-4">
                                 <div class="row align-items-start">
                                     <div class="col-md-4">
-                                        <img src="../public/img/laravel2.webp" 
+                                        <img src="../public/img/dia2/laravel2.webp" 
                                              alt="Laravel y Filament" 
                                              class="img-fluid rounded shadow-sm w-100">
                                     </div>
@@ -129,7 +129,7 @@
                                         </p>
                                     </div>
                                     <div class="col-md-4">
-                                        <img src="../public/img/laravel3.webp" 
+                                        <img src="../public/img/dia2/laravel3.webp" 
                                              alt="Ventajas de Filament" 
                                              class="img-fluid rounded shadow-sm w-100">
                                     </div>
@@ -141,7 +141,7 @@
                             <div class="card-body p-4">
                                 <div class="row align-items-start">
                                     <div class="col-md-4">
-                                        <img src="../public/img/laravel1.webp" 
+                                        <img src="../public/img/dia2/laravel1.webp" 
                                              alt="Panel de Laravel" 
                                              class="img-fluid rounded shadow-sm w-100">
                                     </div>
@@ -166,7 +166,7 @@
                             <div class="card-body p-4">
                                 <div class="row align-items-start">
                                     <div class="col-md-4">
-                                        <img src="../public/img/tema51.webp" 
+                                        <img src="../public/img/dia2/tema51.webp" 
                                              alt="IA Multimodal" 
                                              class="img-fluid rounded shadow-sm w-100">
                                     </div>
@@ -190,7 +190,7 @@
                                         </p>
                                     </div>
                                     <div class="col-md-4">
-                                        <img src="../public/img/tema52.webp" 
+                                        <img src="../public/img/dia2/tema52.webp" 
                                              alt="Riesgos de la IA" 
                                              class="img-fluid rounded shadow-sm w-100">
                                     </div>
@@ -202,7 +202,7 @@
                             <div class="card-body p-4">
                                 <div class="row align-items-start">
                                     <div class="col-md-4">
-                                        <img src="../public/img/tema53.webp" 
+                                        <img src="../public/img/dia2/tema53.webp" 
                                              alt="Programación con IA" 
                                              class="img-fluid rounded shadow-sm w-100">
                                     </div>

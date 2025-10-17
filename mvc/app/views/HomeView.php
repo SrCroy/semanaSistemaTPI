@@ -57,10 +57,10 @@
                             </div>
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <img src="../public/img/bitcoin1.webp" class="d-block w-100" alt="Monitoreo de servidores" style="height: 200px; object-fit: cover;">
+                                    <img src="../public/img/dia1/bitcoin1.webp" class="d-block w-100" alt="Monitoreo de servidores" style="height: 200px; object-fit: cover;">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="../public/img/bitcoin2.webp" class="d-block w-100" alt="Dashboard de monitoreo" style="height: 200px; object-fit: cover;">
+                                    <img src="../public/img/dia1/bitcoin2.webp" class="d-block w-100" alt="Dashboard de monitoreo" style="height: 200px; object-fit: cover;">
                                 </div>
                             </div>
                             <button class="carousel-control-prev" type="button" data-bs-target="#carouselLunes" data-bs-slide="prev">
@@ -93,10 +93,10 @@
                             </div>
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <img src="../public/img/images.webp" class="d-block w-100" alt="Backup de datos" style="height: 200px; object-fit: cover;">
+                                    <img src="../public/img/dia2/images.webp" class="d-block w-100" alt="Backup de datos" style="height: 200px; object-fit: cover;">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="../public/img/composer.webp" class="d-block w-100" alt="Servidores de backup" style="height: 200px; object-fit: cover;">
+                                    <img src="../public/img/dia2/composer.webp" class="d-block w-100" alt="Servidores de backup" style="height: 200px; object-fit: cover;">
                                 </div>
                             </div>
                             <button class="carousel-control-prev" type="button" data-bs-target="#carouselMartes" data-bs-slide="prev">
@@ -130,10 +130,10 @@
                             </div>
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <img src="../public/img/cancelado.webp" class="d-block w-100" alt="Actualizaciones de software" style="height: 200px; object-fit: cover;">
+                                    <img src="../public/img/dia3/cancelado.webp" class="d-block w-100" alt="Actualizaciones de software" style="height: 200px; object-fit: cover;">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="../public/img/cancelado2.webp" class="d-block w-100" alt="Parches de seguridad" style="height: 200px; object-fit: cover;">
+                                    <img src="../public/img/dia3/cancelado2.webp" class="d-block w-100" alt="Parches de seguridad" style="height: 200px; object-fit: cover;">
                                 </div>
                             </div>
                             <button class="carousel-control-prev" type="button" data-bs-target="#carouselMiercoles" data-bs-slide="prev">

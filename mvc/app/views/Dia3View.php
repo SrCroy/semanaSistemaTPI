@@ -53,7 +53,7 @@
                                         </p>
                                     </div>
                                     <div class="col-md-4">
-                                        <img src="../public/img/cancelado2.webp" 
+                                        <img src="../public/img/dia3/cancelado2.webp" 
                                              alt="Universidad de El Salvador bajo lluvia" 
                                              class="img-fluid rounded shadow-sm w-100">
                                     </div>
@@ -65,7 +65,7 @@
                             <div class="card-body p-4">
                                 <div class="row align-items-start">
                                     <div class="col-md-4">
-                                        <img src="../public/img/cancelado.webp" 
+                                        <img src="../public/img/dia3/cancelado.webp" 
                                              alt="Campus universitario afectado por lluvias" 
                                              class="img-fluid rounded shadow-sm w-100">
                                     </div>

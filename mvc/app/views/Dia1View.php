@@ -50,7 +50,7 @@
                                         </p>
                                     </div>
                                     <div class="col-md-4">
-                                        <img src="../public/img/bitcoin1.webp" 
+                                        <img src="../public/img/dia1/bitcoin1.webp" 
                                              alt="Impacto del Bitcoin" 
                                              class="img-fluid rounded shadow-sm w-100">
                                     </div>
@@ -62,7 +62,7 @@
                             <div class="card-body p-4">
                                 <div class="row align-items-start">
                                     <div class="col-md-4">
-                                        <img src="../public/img/bitcoin2.webp" 
+                                        <img src="../public/img/dia1/bitcoin2.webp" 
                                              alt="Billeteras Bitcoin" 
                                              class="img-fluid rounded shadow-sm w-100">
                                     </div>
@@ -86,7 +86,7 @@
                                         </p>
                                     </div>
                                     <div class="col-md-4">
-                                        <img src="../public/img/transacciones.webp" 
+                                        <img src="../public/img/dia1/transacciones.webp" 
                                              alt="Blockchain y Mineros" 
                                              class="img-fluid rounded shadow-sm w-100">
                                     </div>
@@ -105,7 +105,7 @@
                             <div class="card-body p-4">
                                 <div class="row align-items-start">
                                     <div class="col-md-4">
-                                        <img src="../public/img/ideaia.webp" 
+                                        <img src="../public/img/dia1/ideaia.webp" 
                                              alt="IA Generativa" 
                                              class="img-fluid rounded shadow-sm w-100">
                                     </div>
@@ -129,7 +129,7 @@
                                         </p>
                                     </div>
                                     <div class="col-md-4">
-                                        <img src="../public/img/clasificacionIa.webp" 
+                                        <img src="../public/img/dia1/clasificacionIa.webp" 
                                              alt="Clasificación IA" 
                                              class="img-fluid rounded shadow-sm w-100">
                                     </div>
@@ -141,7 +141,7 @@
                             <div class="card-body p-4">
                                 <div class="row align-items-start">
                                     <div class="col-md-4">
-                                        <img src="../public/img/mdlIa.webp" 
+                                        <img src="../public/img/dia1/mdlIa.webp" 
                                              alt="ML, DL y FM" 
                                              class="img-fluid rounded shadow-sm w-100">
                                     </div>
@@ -172,7 +172,7 @@
                                         </p>
                                     </div>
                                     <div class="col-md-4">
-                                        <img src="../public/img/hackton.webp" 
+                                        <img src="../public/img/dia1/hackton.webp" 
                                              alt="Hackathon estudiantil" 
                                              class="img-fluid rounded shadow-sm w-100">
                                     </div>
