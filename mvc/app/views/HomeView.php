@@ -161,10 +161,10 @@
                             </div>
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" class="d-block w-100" alt="Reportes de métricas" style="height: 200px; object-fit: cover;">
+                                    <img src="../public/img/dia4/16.webp" class="d-block w-100" alt="Reportes de métricas" style="height: 200px; object-fit: cover;">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" class="d-block w-100" alt="Análisis de datos" style="height: 200px; object-fit: cover;">
+                                    <img src="../public/img/dia4/1.webp" class="d-block w-100" alt="Análisis de datos" style="height: 200px; object-fit: cover;">
                                 </div>
                             </div>
                             <button class="carousel-control-prev" type="button" data-bs-target="#carouselJueves" data-bs-slide="prev">
